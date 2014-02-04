@@ -1,0 +1,12 @@
+samtools_home = /home/el114/bin
+bwa_home = /home/el114/bin
+blast_home = /bitools/BLAST/ncbi-blast-2.2.27+/bin
+cap3_home = /bitools/CAP3/CAP3_07-10-15
+fasta_location = /hms/scratch1/psm13/meerkat_indices/db/hg19/hg19_old_bwa_idx/hg19.fasta
+meerkat_home=/hms/scratch1/el114/tea_test/meerkat/meerkat/scripts
+tea_home = /hms/scratch1/el114/tea_test/tea
+tea_run = scripts/tea.pl
+tea_assembly = lib/assembly
+tmp_dir = /hms/scratch1/el114
+retro = repeat.combined.div30.isize150.fa
+virus = hvir.collapsed.fa
